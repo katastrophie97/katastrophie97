@@ -24,7 +24,8 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=QGIS&logoColor=white&color=c2a295)
 ![](https://img.shields.io/badge/Tool-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=c2a295)
 
-
+## 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **katastrophie97/katastrophie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
