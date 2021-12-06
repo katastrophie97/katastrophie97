@@ -25,7 +25,14 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 ![](https://img.shields.io/badge/Tool-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=c2a295)
 
 ## 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&theme=gruvbox&text_color=c2a295&title_color=276478&icon_color=e8a631" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&theme=gruvbox&text_color=c2a295&title_color=276478&icon_color=e8a631" />
+</a>
 
 <!--
 **katastrophie97/katastrophie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
