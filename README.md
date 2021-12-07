@@ -5,7 +5,7 @@
 
 ![Header](https://github.com/katastrophie97/katastrophie97/blob/main/72f720405a396136317be5047bfa38dd%20copy.jpeg "Header")
 
-I am a Hungarian hungry for new data analysis challenges. Currently I am a graduate student at Columbia University, in New York. 
+I am a Hungarian hungry for data analysis. My passion started with statistics back in my undergrad years, but you know what they say: Data Scientists are the people who loves statistics but do not know enough to be a Statistican, and who love programming but do not know enough to be a computer engineer.  Currently, I am a graduate student at Columbia University, located in New York. 
 
 You can find me on [![LinkedIn][2.2]][2] as well! 
 
@@ -34,6 +34,8 @@ You can find me on [![LinkedIn][2.2]][2] as well!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&theme=gruvbox&text_color=c2a295&title_color=276478&icon_color=e8a631" />
 </a>
 
+## ⚡ Fun fact: 
+- I know why the albatross soup is so deadly.
 <!--
 **katastrophie97/katastrophie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
