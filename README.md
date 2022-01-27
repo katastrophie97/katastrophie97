@@ -34,6 +34,7 @@ You can find me on [![LinkedIn][2.2]][2] as well!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&theme=gruvbox&text_color=c2a295&title_color=276478&icon_color=e8a631" />
 </a>
 
+
 ## ⚡ Fun fact: 
 - I know why the albatross soup is so deadly.
 <!--
