@@ -17,13 +17,13 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 [2]: www.linkedin.com/in/kata-mezo-501627153
 
 ## 💻 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/Code-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/Vizualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=QGIS&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/Tool-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/GitHub?style=flat&logo=GitHub&logoColor=white&color=c2a295)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=c6b19d)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=c6b19d)
+![](https://img.shields.io/badge/Code-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=c6b19d)
+![](https://img.shields.io/badge/Vizualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=c6b19d)
+![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=QGIS&logoColor=white&color=c6b19d)
+![](https://img.shields.io/badge/Tool-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=c6b19d)
+![](https://img.shields.io/badge/GitHub?style=flat&logo=GitHub&logoColor=white&color=c6b19d)
 ## 
 
 
