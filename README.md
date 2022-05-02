@@ -28,10 +28,10 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&text_color=957a6d&title_color=2e604a&icon_color=2e604a&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&text_color=957a6d&title_color=1dace8&icon_color=1dace8&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact&title_color=2e604a&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact&title_color=1dace8&theme=tokyonight" />
 
 
 ## ⚡ Fun fact: 
