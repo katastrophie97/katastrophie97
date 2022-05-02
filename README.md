@@ -33,7 +33,7 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&theme=vue&text_color=957a6d&title_color=2e604a&icon_color=2e604a" />
 </a>
-
+<a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact)](https://github.com/katastrophie97/github-readme-stats) />
 
 ## ⚡ Fun fact: 
 - I know why the albatross soup is so deadly.
