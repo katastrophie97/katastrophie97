@@ -28,7 +28,7 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&theme=gruvbox&text_color=c2a295&title_color=276478&icon_color=e8a631" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&theme=vue&text_color=c2a295&title_color=276478&icon_color=e8a631" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&theme=gruvbox&text_color=c2a295&title_color=276478&icon_color=e8a631" />
