@@ -31,7 +31,7 @@ You can find me on [![LinkedIn][2.2]][2] as well!
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&theme=vue&text_color=957a6d&title_color=2e604a&icon_color=2e604a" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact&theme=vue&text_color=957a6d&title_color=2e604a&icon_color=2e604a" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact&theme=vue&title_color=2e604a" />
 
 
 ## ⚡ Fun fact: 
