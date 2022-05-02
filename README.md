@@ -32,8 +32,9 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&JupyterNotebooks=fddda4&html=fddda&title_color=1dace8&theme=tokyonight" />
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=katastrophie97&repo=machine-learning)](https://github.com/anuraghazra/github-readme-stats)
+##
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=katastrophie97&repo=machine-learning&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
   
 ## ⚡ Fun fact: 
