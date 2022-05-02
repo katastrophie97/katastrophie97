@@ -5,7 +5,7 @@
 
 ![Header](https://github.com/katastrophie97/katastrophie97/blob/main/72f720405a396136317be5047bfa38dd%20copy.jpeg "Header")
 
-I am a Hungarian hungry for data analysis. My passion started with statistics back in my undergrad years, but you know what they say: Data Scientists are the people who loves statistics but do not know enough to be a Statistican, and who love programming but do not know enough to be a computer engineer.  Currently, I am a graduate student at Columbia University, located in New York. 
+I am a Hungarian hungry for data analysis. Throughout the past years, I have applied data analysis at my practice-oriented Columbia University Master’s program in professional settings and at fast paced multinational companies. I focused on modelling customers and patients’ behaviour patterns with clustering and machine learning algorithms. I am looking forward to further practical use in the data science field.  
 
 You can find me on [![LinkedIn][2.2]][2] as well! 
 
