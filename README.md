@@ -26,7 +26,6 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 ![](https://img.shields.io/badge/GitHub?style=flat&logo=GitHub&logoColor=white&color=c6b19d)
 ## 
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&text_color=957a6d&title_color=1dace8&icon_color=1dace8&theme=tokyonight" />
 </a>
@@ -34,6 +33,9 @@ You can find me on [![LinkedIn][2.2]][2] as well!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&JupyterNotebooks=fddda4&html=fddda&title_color=1dace8&theme=tokyonight" />
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=katastrophie97&repo=machine-learning)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 ## ⚡ Fun fact: 
 - I know why the albatross soup is so deadly.
 <!--
