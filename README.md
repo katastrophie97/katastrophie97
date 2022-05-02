@@ -23,7 +23,7 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 ![](https://img.shields.io/badge/Vizualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=c2a295)
 ![](https://img.shields.io/badge/GIS-QGIS-informational?style=flat&logo=QGIS&logoColor=white&color=c2a295)
 ![](https://img.shields.io/badge/Tool-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=c2a295)
-![](https://img.shields.io/badge/git?style=flat&logo=git&logoColor=white&color=c2a295)
+![](https://img.shields.io/badge/github?style=flat&logo=github&logoColor=white&color=c2a295)
 ## 
 
 
