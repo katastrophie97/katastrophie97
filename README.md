@@ -26,15 +26,12 @@ You can find me on [![LinkedIn][2.2]][2] as well!
 ![](https://img.shields.io/badge/GitHub?style=flat&logo=GitHub&logoColor=white&color=c6b19d)
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&text_color=957a6d&title_color=2e604a&icon_color=2e604a" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=katastrophie97&show_icons=true&text_color=957a6d&title_color=2e604a&icon_color=2e604a&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact&title_color=2e604a" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katastrophie97&layout=compact&title_color=2e604a&theme=tokyonight" />
 
 
 ## ⚡ Fun fact: 
